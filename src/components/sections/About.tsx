@@ -5,7 +5,7 @@ import { Code2, Palette } from "lucide-react";
 import Image from "next/image";
 
 const stats = [
-  { label: "Projects Built", value: "15+" },
+  { label: "Projects Built", value: "7+" },
   { label: "Technologies", value: "12+" },
   { label: "Hackathons", value: "5+" },
 ];
