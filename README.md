@@ -1,5 +1,7 @@
 # Deepak Bajaj Portfolio
 
+Personal portfolio website showcasing my projects, skills, certifications and achievements.
+
 A professional, visually stunning portfolio website built with Next.js, Tailwind CSS, and Framer Motion.
 
 ## Features
