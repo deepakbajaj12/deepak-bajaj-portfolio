@@ -13,7 +13,7 @@ const skillCategories = [
   },
   {
     title: "Database & Tools",
-    skills: ["Firebase", "Git", "GitHub", "Vercel", "IoT"]
+    skills: ["SQL", "MongoDB", "Firebase", "Git", "GitHub", "Vercel", "IoT"]
   }
 ];
 
