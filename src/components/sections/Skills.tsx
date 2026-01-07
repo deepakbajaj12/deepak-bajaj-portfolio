@@ -8,12 +8,12 @@ const skillCategories = [
     skills: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "Three.js"]
   },
   {
-    title: "Backend",
-    skills: ["Python", "Node.js", "Express", "SQL", "PostgreSQL", "GraphQL", "Prisma", "Supabase"]
+    title: "Backend & AI",
+    skills: ["Python", "Flask", "FastAPI", "OpenAI", "Cohere", "Transformers", "NLP", "OCR"]
   },
   {
-    title: "DevOps & Tools",
-    skills: ["Docker", "AWS", "Git", "CI/CD", "Figma", "Vercel"]
+    title: "Database & Tools",
+    skills: ["Firebase", "Git", "GitHub", "Vercel", "IoT"]
   }
 ];
 
